@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Boot.dev Learn Git certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/7398449c-e6fd-46b2-9885-572a2cb0205e.jpeg?v=1794095845)](https://www.boot.dev/certificates/7398449c-e6fd-46b2-9885-572a2cb0205e)
 <!--
 **LukaDavidTorkar/LukaDavidTorkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
