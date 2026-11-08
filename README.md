@@ -1,5 +1,7 @@
 ## Hi there 👋
 [![Boot.dev Learn Git certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/7398449c-e6fd-46b2-9885-572a2cb0205e.jpeg?v=1794095845)](https://www.boot.dev/certificates/7398449c-e6fd-46b2-9885-572a2cb0205e)
+[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/f2c0c7d3-5018-4689-8c82-17d1dca9e820.jpeg?v=1793482494)](https://www.boot.dev/certificates/f2c0c7d3-5018-4689-8c82-17d1dca9e820)
+[![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/bf5d1227-f6d7-45f2-bd38-38772968cc3e.jpeg?v=1792619465)](https://www.boot.dev/certificates/bf5d1227-f6d7-45f2-bd38-38772968cc3e)
 <!--
 **LukaDavidTorkar/LukaDavidTorkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
